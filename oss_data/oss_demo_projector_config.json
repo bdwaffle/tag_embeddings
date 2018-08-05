@@ -1,0 +1,11 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "word2vec.model",
+      "tensorShape": [1202, 150],
+      "tensorPath": "word2vec.model_1202_150d_tensors.bytes",
+      "metadataPath": "word2vec.model_1202_150d_labels.tsv"
+    }
+  ],
+  "modelCheckpointPath": "Demo datasets"
+}
